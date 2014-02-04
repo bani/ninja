@@ -1,6 +1,5 @@
-from ninja.api import NinjaAPI, Watcher
+from ninja.api import NinjaAPI
 from ninja.devices import TemperatureSensor, HumiditySensor
-from datetime import datetime
 from universal import universal_analytics
 import settings
 
